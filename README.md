@@ -1,5 +1,3 @@
-# Advance_project-2
-
 # Creating a markdown summary for the video analysis tool project using AWS
 
 # Video Analysis Tool using AWS
